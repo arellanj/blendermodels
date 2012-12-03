@@ -1,0 +1,5 @@
+*.mesh
+*.xml
+*/export/*
+*.skeleton
+*.material
