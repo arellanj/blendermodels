@@ -1,5 +1,8 @@
-*.xml
-*.mesh
-*.skeleton
+
 *.log
 
+*.mesh
+*.xml
+*/export/*
+*.skeleton
+*.material
